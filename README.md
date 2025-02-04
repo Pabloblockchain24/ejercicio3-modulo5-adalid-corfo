@@ -24,7 +24,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 ## Estructura de carpetas y archivos
 
 ```
-ejercicio3-modulo4-adalid-corfo/
+ejercicio3-modulo5-adalid-corfo/
 ├── public/
 │   ├── assets/
 │   │   ├── img/

@@ -24,16 +24,14 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 ## Estructura de carpetas y archivos
 
 ```
-ejercicio1-modulo4-adalid-corfo/
+ejercicio3-modulo4-adalid-corfo/
 ├── public/
 │   ├── assets/
 │   │   ├── img/
-│   │   │   ├── appointmentsItem.jpg
-│   │   │   ├── emergencyItem.jpg
-│   │   │   └── especialityItem.jpg
-│   │   └── data/
-│   │       └── doctores.json
-│   │       └── servicios_medicos.json
+│   │      ├── appointmentsItem.jpg
+│   │      ├── emergencyItem.jpg
+│   │      └── especialityItem.jpg
+│   │    
 │   └── index.html
 ├── src/
 │   ├── components/
@@ -44,11 +42,16 @@ ejercicio1-modulo4-adalid-corfo/
 │   │   └── ServiceList.jsx
 │   ├── pages/
 │   │   ├── AppointmentForm.jsx
+│   │   ├── Dashboard.jsx
+│   │   ├── DoctorAdd.jsx
 │   │   ├── EquipoMedico.jsx
 │   │   ├── Home.jsx
+│   │   ├── Login.jsx
 │   │   ├── ProfilerView.jsx
-│   │   └── ServiciosMedicos.jsx
+│   │   ├── ServiciosMedicos.jsx
+│   │   └── Vulnerabilities.jsx
 │   ├── context/
+│   │   ├── AuthContext.jsx
 │   │   └── DataContext.jsx
 │   ├── hocs/
 │   │   └── whitModal.jsx
